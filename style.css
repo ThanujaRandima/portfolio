@@ -663,7 +663,7 @@ body{
         align-items: flex-start;
     }
     .hero_head{
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
     .hero_head_div{
         margin-top: 0px;
@@ -679,7 +679,7 @@ body{
         width: fit-content;
         height: fit-content;
         padding: 2.5rem;
-        font-size: 1.2rem;
+        font-size: 1rem;
         color: rgba(255, 255, 255, 0.7);
         line-height: 2rem;
     }
