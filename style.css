@@ -657,6 +657,9 @@ body{
 }
 
 @media (max-width: 481px){
+    .main_section{
+        height:fit-content;
+    }
     .hero_content{
         display: flex;
         flex-direction: column;
